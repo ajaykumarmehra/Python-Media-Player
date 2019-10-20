@@ -1,4 +1,5 @@
 import os
+import numpy as np
 from tkinter import *
 from tkinter import filedialog
 #from fileDialog import askopenfilename
